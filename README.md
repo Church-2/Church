@@ -40,7 +40,8 @@ Much has come from Descartes’ refutation of Aquinas, the mind and body were cl
 
 TBD
 
-Use the repository to comment, fork, etc.
+Use the repository to comment, fork, etc. 
+[Link](https://github.com/Church-2/Church)
 
 <footer>
 
