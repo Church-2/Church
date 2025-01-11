@@ -20,15 +20,21 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## Foundational Rant
 
-_You turned on GitHub Pages! :tada:_
+I’d genuinely like to start a church, I have an earnest belief in the ability of the arts to foster spiritual reflection , engagement, and growth. The founders of this country did purposefully create a separation of church and state and that deeply entrenched freedom goes both ways, preventing particular religious beliefs from influencing the state and preventing the state from influencing particular religious beliefs and more importantly organization and functioning. I’d like to do some organizing and functioning around a structure and set of beliefs. I should maybe look harder for a group to join, but I’ve not found anyone who shares one of the principles and beliefs I’d like to operate under. You can’t talk about god by talking about god. God isn’t real or god is real are answers to a question I’m not asking and surely want no answer to. Christ and the trinity and all that are nice machinations of thought, they could be lovely contemplative exercises, but they’re not answers or facts or things that should be dogmatized. 
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+Christianity is a false monolith and folks that use its generalization as such can eat some grass. Nitzsche was right that we constructed god, but wrong to think it was or would be or should be or could be reasoned to death. He must have seen saw some small little god or had too much faith in the power of force and the will to power and whatnot, lol, but I’m talking about Nitzsche the meme and not Nitzsche the man at this point, I don’t know German. 
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+I do know I was raised in a supposedly Christian community and society, though I don’t know them well, I know some bible stories. I remember that brief time as a child when I had yet to reason away god and felt some comfort in the walls of the church. Maybe I’m just looking for some comfort now. 
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+— I’m struck my a memory that feels like a chord to the present. Sunday school, the old stone of the church, the windows of iron and glass, the high ceilings, higher still ‘cause I was so small, that kind of rough maroonish 90’s carpet, the vinyl trim, other kids too, but I can’t picture them as well. The action is a blur, but I remember being confounded by that silly paradox made famous by Aquinas, first originating in at least the 10th century as shown in the work of Saʿadiah Gaon, given a late 20th century spin by some silly children: could god microwave a burrito so hot he himself could not eat it? 
+
+Aquinas said no, Descartes later said yes. I feel like they both missed the forest for the trees and tried answering the rhetorical question of a mystic. Any answer but the process of contemplation is lacking. These men and many others bore their processes and contemplations to the world through their writings and works. We can feel their spirits echo in the world today whether we’d like to or not. The trouble is not in the answers they gave or the work they did but in our taking that work as a solution, in understanding the question as one to be answered, and not understanding it as contemplation. 
+
+Much has come from Descartes’ refutation of Aquinas, the mind and body were cleaved and we learned that anything is possible though not everything happens. The nascent power of the individual was fed. Whole lot of people smarter than me have commented on this and there are massive gaps in talking about their ideas relating to the present and my understanding of them, but like I’ve said, everything feels fuzzy and I’m just pulling at threads and memories and thoughts and seeing what comes of it and sharing because I enjoy the process and want to share not answers or ends, but ways and means in all directions and none.
+
+-King Ludd's Wife
 
 ### :keyboard: Activity: Configure your site
 
